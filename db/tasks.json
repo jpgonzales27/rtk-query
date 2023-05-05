@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "comprar almurzo",
+      "description": "en la casita",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "pasear a los perros",
+      "description": "en mi barrio",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "algo nuevo",
+      "description": "something new",
+      "completed": true
+    },
+    {
+      "name": "tarea 5",
+      "description": "tarea 5 sin recargar",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "name": "tarea 6",
+      "description": "aplicando sort",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
